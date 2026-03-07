@@ -1,0 +1,31 @@
+{
+  "name": "schema-or-die",
+  "version": "1.0.0",
+  "description": "Validates any website's Schema.org markup and scores it 0-100. Zero dependencies.",
+  "main": "index.js",
+  "bin": {
+    "schema-or-die": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "schema",
+    "schema.org",
+    "json-ld",
+    "seo",
+    "structured-data",
+    "validator",
+    "cli"
+  ],
+  "author": "NickCirv <nick@cirvgreen.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ]
+}
