@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # schema-or-die
 
 [![npm version](https://img.shields.io/npm/v/schema-or-die.svg)](https://www.npmjs.com/package/schema-or-die)
