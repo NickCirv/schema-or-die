@@ -7,7 +7,8 @@
     "schema-or-die": "./index.js"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "node --test"
   },
   "keywords": [
     "schema",
@@ -21,7 +22,7 @@
   "author": "NickCirv <nick@cirvgreen.com>",
   "license": "MIT",
   "engines": {
-    "node": ">=14.0.0"
+    "node": ">=20"
   },
   "files": [
     "index.js",
